@@ -1,4 +1,4 @@
-# model-va-algorithms
+# Model Verbal Autopsy (VA) Algorithms
 Just the core logic of VA algorithms in R. Presented in an RStudio R Markdown file.
 
 **For pedagogical purposes only.** Real-world algorithm implemenations include significant additional functionality to ensure data quality, and they also work with far more symptoms and causes. As a result, real world algorithm performance may be significantly different from the model algorithms presented here.
